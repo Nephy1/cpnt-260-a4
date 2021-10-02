@@ -77,3 +77,7 @@ https://privacy.umusic.com/store-terms-umg.html
 
 Father Of All
 https://www.warnermusic.ca/terms-of-use
+
+Formspree
+https://formspree.io/library/registration-form/
+https://formspree.io/legal/terms-of-service
