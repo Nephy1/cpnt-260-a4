@@ -19,6 +19,8 @@ header {
   justify-content: center;
   align-self: center;
   max-width: 100%;
+  flex-direction: column;
+  
 
 }
 h1 {
@@ -93,6 +95,19 @@ p {
   text-align: center;
   justify-content: center;
 }
+header p {
+  margin: 0 auto;
+  font-size: 25px;
+}
+header a {
+  text-decoration: none;
+  list-style-type: none;
+  color: skyblue;
+}
+.fs-frm, .form {
+  display: flex;
+  justify-content: center;
+}
 
 /* Layout of Cards */
 .container {
@@ -143,7 +158,7 @@ img {
 
 
 /* CHANGES AFTER SCREEN IS 500PX OR MORE */
-/*@media screen and (min-width: 500px) {}*/
+/*@media screen and (min-width: 500px) {} {}*/
   main {
     width: 100%;;
     background: linear-gradient( #F16A43 50%, #F7D969 50% );
@@ -262,3 +277,5 @@ img {
   max-width: 300px, 100%;
   display: block;
 }
+
+
