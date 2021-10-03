@@ -270,7 +270,12 @@ img {
   display: none;
 }
 
-
+.frame {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
 
 /* CHANGES AFTER SCREEN IS 500PX OR MORE */
 @media screen and (min-width: 500px) {
