@@ -19,10 +19,9 @@ header {
   justify-content: center;
   align-self: center;
   max-width: 100%;
-  flex-direction: column;
-  
-
+  flex-direction: column; 
 }
+
 li {
   list-style-type: none;
 }
@@ -102,6 +101,7 @@ header p {
   margin: 0 auto;
   font-size: 25px;
 }
+
 header a {
   text-decoration: none;
   list-style-type: none;
@@ -266,6 +266,10 @@ img {
   display: block;
 }
 
+.cool-guy {
+  display: none;
+}
+
 
 
 /* CHANGES AFTER SCREEN IS 500PX OR MORE */
@@ -383,10 +387,20 @@ img {
   grid-auto-rows: minmax(200px, auto);
   grid-gap: 5px;
 }
+.grid-container h1 {
+  grid-column: 2 / 4;
+}
 img {
   max-width: 300px, 100%;
   display: block;
 }
-
-
+.cool-guy {
+  display: flex;
+  width: 100%;
+  max-height: 300px;
+  max-width: 300px;
+  display: flex;
+  margin: 0 auto;
+  justify-self: center;
+}
 }
