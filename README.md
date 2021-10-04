@@ -1,6 +1,6 @@
-# CPNT-260-A2 Product Page
-https://github.com/Nephy1/Nephy1-CPNT-260-A3
-https://nephy1.github.io/Nephy1-CPNT-260-A3/
+# CPNT-260-A4 
+https://nephy1.github.io/cpnt-260-a4/
+https://github.com/Nephy1/cpnt-260-a4
 
 ## Product Page rough draft
 
@@ -34,7 +34,9 @@ I think css grid would have been a tad easier to work with if I knew it just as 
  
  Started using grid for gallery, not insanely hard for a simple setup but I haven't been using *span* at all.
 
- 
+## Syntax errors are getting less and less, still don't understand the body tag issue.
+
+
 
 # Disclaimer
 All album artwork shown on this site goes to their respective owners. 
